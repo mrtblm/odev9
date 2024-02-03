@@ -1,6 +1,6 @@
 package org.example;
 
-public class KargoTakip {
+public class gitKargoTakip {
     public String kargo(String TakipNumarasi) throws GecersizTakipException, GonderiYokException {
 
         if (TakipNumarasi == null || TakipNumarasi.isEmpty()) {
